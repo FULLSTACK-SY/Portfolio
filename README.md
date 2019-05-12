@@ -2,7 +2,7 @@
 
 Run : https://fullstack-sy.github.io/Portfolio/.
 
-Recreated Profolio with :
+Recreated Portfolio with :
 
 My personal information.
 
