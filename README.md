@@ -10,8 +10,8 @@ Links to my GitHub profile & LinkedIn page as well as email address and phone nu
 
 A link to a PDF of my resume
 
-Attached 3 projects having :
-Project title
-Small description
-Link to the deployed version
-Link to the code on GitHub
+Attached projects having :
+* Project title
+* Small description
+* Link to the deployed version
+* Link to the code on GitHub
